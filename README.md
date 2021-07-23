@@ -1,4 +1,4 @@
-# coursera machine learning programming assignments 
-## andrew ng
+### coursera machine learning programming assignments (andrew ng)
+## 
 
-### all of assigments of this course is uploaded in above folders
+#### all of assigments of this course is uploaded in above folders
